@@ -1,0 +1,7 @@
+Grid layout with auto-fit ensures product cards adjust automatically to screen width.
+
+Media queries are used for responsive navigation and layout stacking.
+
+No JavaScript or frameworks: Easy for beginners to edit and expand.
+
+CSS hover effects enhance interactivity for product cards and buttons.

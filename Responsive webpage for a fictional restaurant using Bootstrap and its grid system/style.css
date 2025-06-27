@@ -1,0 +1,31 @@
+/* style.css */
+
+/* Hero section styles */
+.hero-section {
+  background: url('https://via.placeholder.com/1200x600?text=Delicious+Dish') no-repeat center center/cover;
+  height: 100vh;
+  position: relative;
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hero-section p {
+  font-size: 1.2rem;
+}
+
+/* Smooth spacing */
+section {
+  scroll-margin-top: 80px;
+}
+
+footer i {
+  font-size: 1.2rem;
+  transition: transform 0.3s ease;
+}
+
+footer i:hover {
+  transform: scale(1.2);
+}
